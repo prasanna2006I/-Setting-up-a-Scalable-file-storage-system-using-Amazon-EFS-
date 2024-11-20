@@ -1,9 +1,8 @@
- # SETTING UP A SCALABLE FILE STORAGE SYSTEM USING AMAZON ELASTIC FILE SYSTEM
-  ## AIM
-       To  setting up a scalable file storage system using Amazon Elastic File System (EFS) for two EC2 instances in different availability zones. 
+# SETTING UP A SCALABLE FILE STORAGE SYSTEM USING AMAZON ELASTIC FILE SYSTEM
+## AIM
+To  setting up a scalable file storage system using Amazon Elastic File System (EFS) for two EC2 instances in different availability zones. 
 ## PROBLEM STATEMENT
-    Explain about the Experiment.
-
+Explain about the Experiment.
 ## ALGORITHM
 ### Step 1: Launch Two EC2 Instances in Different Availability Zones
 Go to the EC2 service in the AWS Management Console.
